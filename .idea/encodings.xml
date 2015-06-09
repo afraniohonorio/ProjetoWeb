@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/partials/navbar.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/partials/pod.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/clienteController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/dashboardController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/financeiroController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/fornecedorController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/loginController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/pedidoController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/produtoController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/directives/navegacao.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/directives/pods.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/styles/main.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/clientes.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/dashboard.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/financeiro.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/fornecedores.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/login.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/pedidos.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/produtos.html" charset="UTF-8" />
+  </component>
+</project>

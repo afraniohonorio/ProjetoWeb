@@ -1,0 +1,31 @@
+<navegacao></navegacao>
+
+<div class="container">
+  <div class="row gap">
+    <h2>Petthoouse - O jeito mais fácil de gerenciar sua Pet House</h2>
+    <div class="row">
+      <div class="col-sm-6">
+        <img width="250px" src="images/Petthoouse_logo.png" alt=""/>
+      </div>
+      <div class="col-sm-6">
+        <div ng-show="falhou" class="alert alert-danger" role="alert">Usuário ou senha inválidos</div>
+        <h4>Entrar no Petthoouse</h4>
+        <form name="loginForm" novalidate>
+          <fieldset>
+            <div class="form-group">
+              <label for="">Login</label>
+              <input name="usuario" type="text" class="form-control" ng-required="true" ng-model="loginModel.usuario"/>
+            </div>
+            <div class="form-group">
+              <label>Senha</label>
+              <input name="senha" type="password" class="form-control" ng-required="true" ng-model="loginModel.senha"/>
+            </div>
+          </fieldset>
+          <fieldset>
+            <button class="btn btn-primary btn-lg" ng-click="doLogin()">Entrar</button>
+          </fieldset>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
